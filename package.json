@@ -1,0 +1,22 @@
+{
+  "name": "ObjectTree",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antiBaconMachine/ObjectTree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antiBaconMachine/ObjectTree/issues"
+  },
+  "homepage": "https://github.com/antiBaconMachine/ObjectTree",
+  "devDependencies": {
+    "jasmine-node": "^1.14.3"
+  }
+}
